@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wubydacherry&label=Profile%20views&color=0e75b6&style=flat" alt="wubydacherry" /> </p>
 
-<p align="left"> <a href="https://twitter.com/reapaleopard" target="blank"><img src="https://img.shields.io/twitter/follow/rhydderchch?logo=twitter&style=for-the-badge" alt="rhydderchch" /></a> </p>
+<p align="left"> <a href="https://twitter.com/reapaleopard" target="blank"><img src="https://img.shields.io/twitter/follow/reaperleopard?logo=twitter&style=for-the-badge" alt="reaperleopard" /></a> </p>
 
 - 🔭 I’m currently working on [Shiro](@shiro-development)
 
